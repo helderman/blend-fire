@@ -6,8 +6,7 @@
 		)
 		(gimp-image-insert-layer image layer 0 0)
 		(plug-in-solid-noise RUN-NONINTERACTIVE image layer TRUE FALSE seed 1 4 4)
-		(gimp-drawable-brightness-contrast layer 0.5 0.3)
-		(gimp-drawable-colorize-hsl layer 10 100 -50)
+		(gimp-drawable-brightness-contrast layer 0.5 -0.2)
 
 		(file-jpeg-save RUN-NONINTERACTIVE image layer name name 0.7 0 0 0 "Solid noise" 0 1 0 0)
 		(gimp-image-delete image)
