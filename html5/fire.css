@@ -1,11 +1,11 @@
 .fire {
-	background-image: url(noise1.jpg), url(noise2.jpg), linear-gradient(#fff, #999);
+	background-image: url(noise.jpg), url(noise.jpg), linear-gradient(#fff, #999);
 	background-blend-mode: difference, difference, normal;
 	filter: sepia(1) contrast(6);
 	animation: sliding 5s linear infinite;
 }
 
 @keyframes sliding {
-	from { background-position: 1024px 9216px, 0 7168px, 0 0; }
-	to   { background-position: 0 0, 1024px 0, 0 0; }
+	from { background-position: 1536px 9216px, 0 7168px, 0 0; }
+	to   { background-position: 512px 0, 1024px 0, 0 0; }
 }
