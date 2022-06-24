@@ -44,3 +44,6 @@ Thanks to [Shadertoy](https://www.shadertoy.com/)
 for giving me the platform to experiment with noise algorithms.
 It is here that I first discovered that the sum (or difference)
 of two noise functions makes a great fire.
+Here's a demo I made:
+
+[https://www.shadertoy.com/view/fdtczl]
