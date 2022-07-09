@@ -6,7 +6,7 @@ Incredibly simple CSS animation, producing a very convincing fire effect.
 
 ## See it in action
 
-https://helderman.github.io/blend-fire/html5/index.html
+<https://helderman.github.io/blend-fire/html5/index.html>
 
 Works on recent versions of
 [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome),
@@ -31,7 +31,7 @@ Additional filters are giving it the right contrast and color.
 
 ## Video
 
-https://www.youtube.com/watch?v=w3lhF7yMVfM
+<https://www.youtube.com/watch?v=w3lhF7yMVfM>
 
 ## Credits
 
@@ -50,4 +50,4 @@ It is here that I first discovered that the sum (or difference)
 of two noise functions makes a great fire.
 Here's a demo I made:
 
-https://www.shadertoy.com/view/fdtczl
+<https://www.shadertoy.com/view/fdtczl>
