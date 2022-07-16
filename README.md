@@ -4,9 +4,11 @@ Incredibly simple CSS animation, producing a very convincing fire effect.
 
 ![Screenshot](screenshot.jpg)
 
-## See it in action
+## Live demo
 
 <https://helderman.github.io/blend-fire/html5/index.html>
+
+## Browser support
 
 Works on recent versions of
 [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome),
@@ -15,9 +17,16 @@ Works on recent versions of
 [Opera](https://en.wikipedia.org/wiki/Opera_(web_browser)),
 [Samsung Internet](https://en.wikipedia.org/wiki/Samsung_Internet).
 
-Not tested yet on
-[Safari](https://en.wikipedia.org/wiki/Safari_(web_browser));
-I am all ears for your experiences there.
+Works on
+[Safari](https://en.wikipedia.org/wiki/Safari_(web_browser)),
+but frame rate is low.
+Needs investigation;
+possibly Safari is throttling 'unimportant' animations
+in an attempt to balance the CPU load, as suggested
+[here](https://nolte.io/blog/slow-running-animations-in-safari/).
+For now, I'd recommend Apple users to use
+[Firefox](https://en.wikipedia.org/wiki/Firefox)
+instead; the animation is <i>a lot</i> smoother there.
 
 Does not work on
 [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer).
